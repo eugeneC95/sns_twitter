@@ -33,4 +33,5 @@
 <li>Post from who you followed</li>
 </ul>
 <p>The system if fully functioned and 24/7</p>
+<p>Example: https://eugenes.club/sns/</p>
 <p>Thanks.My name is Eugene_Chan</p>
