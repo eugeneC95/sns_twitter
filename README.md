@@ -1,24 +1,36 @@
 <h4>A web service based on twitter and facebook.(for Education)</h4>
+<h5>Function:</h5>
+<ul>
+<div>Register</div>
+<li>email vertification include</li>
+<li>Forgotten password/reset password</li>
+</ul>
 
-<p>Function:</p>
-Register<br>
- -email vertification include<br>
-Forgotten password/reset password<br>
-Login<br>
-Posting<br>
- -Create Post<br>
- -upload image<br>
- -Like post<br>
-Profile<br>
- -Upload profile picture<br>
- -Editing profile description<br>
- -Showing own timeline<br>
-Follow<br>
- -follow / unfollow friend<br>
-Timeline< br>
- -showing not only your post<br>
- -even the post from who you follow<br>
 
+<ul>
+<div>Login</div>
+</ul>
+<ul>
+<div>Posting</div>
+<li>Create Post</li>
+<li>Upload image</li>
+<li>Like Post</li>
+</ul>
+<ul>
+<div>Profile</div>
+<li>Upload profile Picture</li>
+<li>Editing profile Description</li>
+<li>Showing Own Timeline</li>
+</ul>
+<ul>
+<div>Friend</div>
+<li>Follow</li>
+<li>Unfollow</li>
+</ul>
+<ul>
+<div>Timeline</div>
+<li>showing own post</li>
+<li>Post from who you followed</li>
+</ul>
 <p>The system if fully functioned and 24/7</p>
-
-Thanks.My name is Eugene_Chan<br>
+<p>Thanks.My name is Eugene_Chan</p>
